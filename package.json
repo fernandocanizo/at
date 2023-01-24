@@ -1,6 +1,6 @@
 {
   "name": "@flc/at",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log helper to tell you exactly where the log call was issued",
   "main": "lib/at.js",
   "scripts": {
