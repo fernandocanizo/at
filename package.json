@@ -1,0 +1,32 @@
+{
+  "name": "@flc/at",
+  "version": "1.0.0",
+  "description": "Log helper to tell you exactly where the log call was issued",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests so far\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandocanizo/at.git"
+  },
+  "release": {
+    "branch": "main"
+  },
+  "keywords": [
+    "logging",
+    "debugging"
+  ],
+  "author": "Fernando L. Canizo <fernandocanizo@gmail.com> (https://github.com/fernandocanizo/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandocanizo/at/issues"
+  },
+  "homepage": "https://github.com/fernandocanizo/at#readme",
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "dependencies": {
+    "app-root-path": "^3.1.0"
+  }
+}
